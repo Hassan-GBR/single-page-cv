@@ -1,9 +1,8 @@
-# single-page-cv
 <!DOCTYPE html>
 <html> 
   <head>
-    <title>CV</title>
-    </head>
+  <title>CV</title>
+  </head>
 <body>
 <h2>Abdirahman Hassan</h2>
 <h4>Aspiring Product Engineer</h4>
@@ -11,11 +10,11 @@
   <h4>Profile</h4>
 <p>
 
-  16 Roslin Grove <br>
-  Birmingham <br>
-  B19 2HT <br>
-  +447887524609 <br>
-  abdih8218@gmail.com <br>
+  16 R***** G**** <br>
+  B******* <br>
+  B** *** <br>
+  +4**********9 <br>
+  abdih8218@******* <br>
 
   </p>
 
@@ -39,9 +38,40 @@ Skills
 <p>
   Aston University <br>
   BSc Product Design & Technology <br>
-  2024-2027 <br>
+  2***-2*** <br>
 </p>
 
+<h4>    
+  Experience
+</h4>
+<p>
+  Parcel Sorter <br>
+  Royal Mail Services <br>
+  2024-2025 <br>
+</p>
+<p>
+  Customer Support <br>
+  BMW Financial Services <br>
+  2024-2025 <br>
+</p>
+<p>
+  Financial Reporter <br>
+  BMW Financial Services <br>
+  2025-Current <br>
+</p>
+
+<h4>    
+  Achievements  
+</h4>
+<p>
+  
+</p>
+
+<Socials>
+  <P>
+  Linkedin
+  </P>
+</Socials>
 
 </body>
 
