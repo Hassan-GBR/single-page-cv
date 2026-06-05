@@ -1,5 +1,3 @@
-#single-page-cv
-<!DOCTYPE html>
 <html> 
   <head>
   <title>CV</title>
@@ -74,6 +72,4 @@ Skills
   </P>
 </Socials>
 
-</body>
 
-</html>
